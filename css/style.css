@@ -1,0 +1,12 @@
+.headdiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav {
+    display: flex;
+    width: 581px;
+    font-size: 20px;
+    color: #3D37F1;
+    justify-content: space-between;
+}
